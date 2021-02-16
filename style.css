@@ -1,0 +1,194 @@
+body{
+	background-color: #46476e;
+	color: #fe4354
+}
+
+div{
+}
+.a{
+   background-color:#365547;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.b{
+   background-color:#1543bf;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.c{
+   background-color:#aaaaaa;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.d{
+   background-color:#235476;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.e{
+   background-color:#ffaaff;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.f{
+   background-color:#00ff00;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.g{
+   background-color:#abcdef;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.h{
+   background-color:#fe4355;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.i{
+   background-color:#ff6600;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.j{
+   background-color:#124323;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.k{
+   background-color:#01ffff;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.l{
+   background-color:#cc00ff;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.m{
+   background-color:#ffff00;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.n{
+   background-color:#befdb7;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.o{
+   background-color:#14626c;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.p{
+   background-color:#beac43;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.q{
+   background-color:#549876;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.r{
+   background-color:#aebc32;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.s{
+   background-color:#228b22;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.t{
+   background-color:#20d2f4;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.u{
+   background-color:#ff5f1f;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.v{
+   background-color:#ac8762;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.w{
+   background-color:#ff6f61;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.x{
+   background-color:#9b2335;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.y{
+   background-color:#dfcfbe;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.z{
+   background-color:#34568b;
+height:30px;
+width: 30px;
+border: solid 3px black;
+padding:5px
+}
+.last{
+	color:#439100;
+	padding: 10px;
+	background: linear-gradient(#fe4354,cyan,#ffa500)
+}
